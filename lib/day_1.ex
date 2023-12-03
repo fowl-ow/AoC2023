@@ -32,6 +32,4 @@ defmodule Day1 do
     |> Enum.reverse()
     |> extract_first_number
   end
-
-  # Part Two
 end
